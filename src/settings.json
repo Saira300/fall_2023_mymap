@@ -3,9 +3,9 @@
     "accessToken": "pk.eyJ1Ijoic2FpcmEzMDAiLCJhIjoiY2xvajlkZ2g0MDJnaDJqcHBnc2g3YzdqeSJ9.WBOBvzmUD6MnIPqST34uTA",
     "style": "mapbox://styles/mapbox/streets-v11",
     "center": [
-        -122.4194, 
-        37.7749
+        -118.29116666666667, 
+        34.08786111111112
     ],
-    "zoom": 12
-
+    "zoom": 9,
+    "pitch": 40
 }
